@@ -6,7 +6,9 @@
 
 
 - Hey there! Thanks for checking out my portfolio 😄! My name is Muhammad Kamil, and I am an Econometrician turned Data Scientist. I have a Master's Degree in Econometrics from the University of Wisconsin - Madison, with a focus on quantitative economics.
-- Currently employed at Teradata Global Consulting, a multinational cloud database and analytics provider. 
+- Currently employed at Teradata Global Consulting, a multinational cloud database and analytics provider.
+- I develop advanced ML algorithms using a variety of tools such as SQL, and Python, to develop end to end machine learning pipelines for a variety of data science business use cases.
+- I also use docker and kubernetes for model deployment and productionization.
 - I have over 5 years of experience in R, SQL, Python, Data Science, and Machine Learning.
 - I have worked extensively with SQL databases such as MySQL, Postgres, and Teradata.
 - I have a great depth of familiarity with a wide variety of data science tools such as  pandas, numpy, scikitlearn, tensorflow, pytorch etc.
