@@ -5,7 +5,7 @@
 -->
 
 
-- Hey there! Thanks for checking out my portfolio 😄! My name is Muhammad Kamil, and I am an Econometrician turned Data Scientist. I have a Master's Degree in Econometrics from the University of Wisconsin - Madison, with a focus on quantitative economics.\
+- Hey there! Thanks for checking out my portfolio 😄! My name is Muhammad Kamil, and I am an Econometrician turned Data Scientist. I have a Master's Degree in Econometrics from the University of Wisconsin - Madison, with a focus on quantitative economics.
 - Currently working for Ipsos in the Synthetic Data space, with a focus on market research using synthetic data generation. 
 - Previously employed at Teradata Global Consulting, a multinational cloud database and analytics provider.
 - I develop advanced ML algorithms using a variety of tools such as SQL, and Python, to develop end to end machine learning pipelines for a variety of data science business use cases.
